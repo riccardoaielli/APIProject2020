@@ -5,6 +5,7 @@ Evaluation: 29/30
 
 ## Specs
 It consists in a simple text editor that take from the standard input a command (see [commands](#commands)), then accordingly to the command, a number or multiple strings.
+For more details read the official [specifications](/Specifications.pdf) written in italian.
 
 ## Commands
 
